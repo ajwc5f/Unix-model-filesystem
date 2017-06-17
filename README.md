@@ -1,4 +1,4 @@
-### Implementation of a filesystem that interfaces to a Block Store.
+Implementation of a filesystem that interfaces to a Block Store.
 
 #### The following are the sizing constraints of the Block Store:
 1. The total number of blocks is 2^16.
