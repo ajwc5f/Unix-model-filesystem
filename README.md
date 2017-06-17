@@ -44,22 +44,20 @@ file descriptors . Each file descriptor tracks a single read/write position for 
 Files can support multiple descriptors to the same file, but with different read/write positions. Seeking allows the user to
 move the read/write position to where they want. 
 
-## Milestone 1
+#### Milestone 1
 
 1. fs_format
 2. fs_mount
 3. fs_unmount
 
-***
-## Milestone 2
+#### Milestone 2
 
 1. fs_create
 2. fs_get_dir
 3. fs_open
 4. fs_close
 
-***
-## Milestone 3
+#### Milestone 3
 
 1. fs_write
 2. fs_read
